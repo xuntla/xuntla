@@ -1,6 +1,6 @@
 ## Hi, I'm Ming-Shiun Tsai 👋
 
-Graduate student at National Cheng Kung University (NCKU), Taiwan.
+M.S. Student in Computer Science @ National Cheng Kung University (NYKU) · [IMDA Lab](https://sites.google.com/view/imdalab/%E9%A6%96%E9%A0%81)
 I'm interested in **LLM agents** and **AI-assisted software engineering**: making LLM-driven workflows that are not only capable, but also constrained, verifiable, and reproducible.
 
 ### 🔭 Projects
